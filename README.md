@@ -31,10 +31,3 @@ Durante o desenvolvimento, o **GitHub Copilot** foi utilizado para:
 
 O Copilot facilitou bastante a produtividade, antecipando códigos que seriam digitados manualmente e oferecendo melhorias durante o processo.
 
----
-
-## 📦 Como Rodar o Projeto Localmente
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/detectar-bandeira-cartao.git
